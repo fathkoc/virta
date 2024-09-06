@@ -15,7 +15,7 @@ This project is a simple MVC structure built with PHP, implementing custom routi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourprojectname.git
+    git clone https://github.com/fathkoc/virta
     ```
 
 2. Navigate to the project directory:

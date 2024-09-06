@@ -15,7 +15,7 @@ Bu proje, PHP ile oluşturulmuş basit bir MVC yapısıdır ve özel routing (y�
 
 1. Repositoriesi klonlayın:
     ```bash
-    git clone https://github.com/kullaniciadi/projeadi.git
+    git clone https://github.com/fathkoc/virta
     ```
 
 2. Proje dizinine gidin:
