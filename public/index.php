@@ -3,7 +3,7 @@
 require_once '../routes/web.php';
 require_once '../app/Router.php';
 require_once '../app/MiddlewareHandler.php';
-die('fatik');
+
 
 $uri = $_SERVER['REQUEST_URI'];
 
